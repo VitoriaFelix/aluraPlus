@@ -11,7 +11,7 @@
 * HTML
 * CSS
 
-# Link da aplicação : https://vitoriafelix.github.io/aluraPlus/
+## Link da aplicação : https://vitoriafelix.github.io/aluraPlus/
 ## Screenshots
 ![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png)
 
